@@ -8,3 +8,14 @@ C:\Users\Coman Matei\Desktop\Calculator Tap\Calculator\Calculator\obj\Debug\Calc
 C:\Users\Coman Matei\Desktop\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Coman Matei\Desktop\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\Coman Matei\Desktop\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Coman Matei\Desktop\Lab TAP\Calculator Tap\Calculator\Calculator\obj\Debug\Calculator.HistoryForm.resources

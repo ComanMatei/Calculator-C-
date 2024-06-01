@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|c:\\users\\coman matei\\desktop\\lab tap\\calculator tap\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|c:\\users\\coman matei\\desktop\\lab tap\\calculator tap\\calculator\\calculator\\historyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\historyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\calculator\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\calculator\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7431A242-03C5-4475-9EBB-E2599FBB71A5}|Calculator\\Calculator.csproj|solutionrelative:calculator\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculator\\Form1.Designer.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAkwFUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:38:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
               "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.cs",
               "RelativeToolTip": "Calculator\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAgwPkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:02:50.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T20:02:50.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
               "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\Form1.cs [Design]",
               "RelativeToolTip": "Calculator\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T19:21:28.339Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-13T19:21:28.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "Calculator\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.cs",
+              "RelativeToolTip": "Calculator\\HistoryForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:32:48.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator\\HistoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.Designer.cs",
+              "RelativeToolTip": "Calculator\\HistoryForm.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA3wEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:31:40.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "Calculator\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\Coman Matei\\Desktop\\Lab TAP\\Calculator Tap\\Calculator\\Calculator\\HistoryForm.cs [Design]",
+              "RelativeToolTip": "Calculator\\HistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:28:05.715Z"
             }
           ]
         }
